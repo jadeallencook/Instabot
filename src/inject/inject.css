@@ -1,3 +1,14 @@
-/**
- * Place your custom CSS styles here.
- **/
+div.instabot-btn {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #C33D75;
+    color: #FFF;
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+div.instabot-btn:hover {
+    opacity: 0.5;
+}
